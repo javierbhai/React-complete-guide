@@ -5,7 +5,7 @@ import React, {Component} from 'react';
     return(
         <p>I'm a {props.name}!! I am {props.age} years old </p>
     );
-}*/
+};*/
 
 class Person extends Component {
     render(){
